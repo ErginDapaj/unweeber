@@ -2,6 +2,7 @@ const human = require('normal-human.js');
 const weeb = require('weird-creature.js');
 const anime = require('JapanesebombforUS.js');
 const dogecoin = require('MuchMoney.js');
+
 if (weeb.saysanything) {
   human.deaf()
 } 
