@@ -18,3 +18,7 @@ if (human.ears.catch(Anime)) {
 if (weeb.transformsInto(human)) {
   human.reward(dogecoin)
 }
+
+if (human.hands.catch(Anime)) {
+  human.hands.washWithBleach()
+}
